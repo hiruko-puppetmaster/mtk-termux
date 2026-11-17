@@ -1,0 +1,22 @@
+{
+  "name": "example-mt6765",
+  "enabled": false,
+  "hw_code": "0x0766",
+  "hw_version": "0xCA00",
+  "hw_sub_code": "0x8A00",
+  "sw_version": "0x0000",
+  "da": "MTK_AllInOne_DA.bin",
+  "preloader": "preloader.bin",
+  "auth": null,
+  "payload": null,
+  "exploit": "none",
+  "watchdog": null,
+  "brom_payload_addr": null,
+  "var1": null,
+  "blacklist_addr": null,
+  "heap_base": null,
+  "heap_size": null,
+  "dpc_addr": null,
+  "payload_addr": null,
+  "notes": "Template only. Replace HW_CODE/assets with values from your own firmware package. Exploit parameters must come from device-specific research."
+}
